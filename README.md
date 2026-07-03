@@ -1,10 +1,10 @@
-# 🧑‍💼 Sistema de Gerenciamento de Funcionários
+# Sistema de Gerenciamento de Funcionários
 
 Sistema desenvolvido em Python para cadastro, consulta e remoção de funcionários.
 
 ---
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
 - ✅ Cadastro de funcionários com ID automático
 - ✅ Consulta de todos os funcionários
@@ -16,13 +16,13 @@ Sistema desenvolvido em Python para cadastro, consulta e remoção de funcionár
 
 ---
 
-## 🛠 Tecnologias
+## Tecnologias
 
 - Python 3
 
 ---
 
-## 📌 Objetivo
+## Objetivo
 
 Este projeto foi desenvolvido como prática acadêmica para:
 
